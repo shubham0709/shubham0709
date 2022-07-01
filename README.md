@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham0709)](https://github.com/anuraghazra/github-readme-stats)
 # 💫 About Me:
 I'm Shubham Barore from India, I'm a FULL STACK DEVELOPER and always excited about Data Structures and algorithms, I've done 3 projects in collaboration, and counting, currently mastering React.js.
 
