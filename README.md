@@ -9,9 +9,15 @@
 
 - 🌱 I’m currently learning **MongoDB ExpressJD ReactJS NodeJS**
 
+- 👨‍💻 All of my projects are available at [https://shubham-barore.netlify.app/](https://shubham-barore.netlify.app/)
+
 - 💬 Ask me about **react, express and mongoDB**
 
 - 📫 How to reach me **shubham07barore@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UA14_6LQr8B8_6TNjll4VMFtj3YGnoaF/view?usp=sharing](https://drive.google.com/file/d/1UA14_6LQr8B8_6TNjll4VMFtj3YGnoaF/view?usp=sharing)
+
+- ⚡ Fun fact **Funniest buddy among all**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
