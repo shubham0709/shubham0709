@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Barore</h1>
 <h3 align="center">A passionate Full stack developer from India and a problem solver.</h3>
 
-<a href="https://twitter.com/shubham_barore" target="blank"><img align="center" src="https://gifer.com/embed/6M8G" alt="shubham_barore" height="30" width="40" /></a>
+<img src="https://i.gifer.com/6M8G.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham0709&label=Profile%20views&color=0e75b6&style=flat" alt="shubham0709" /> </p>
 
