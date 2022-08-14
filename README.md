@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Barore</h1>
 <h3 align="center">A passionate Full stack developer from India and a problem solver.</h3>
 
-<div style="padding-top:64.000%;position:relative;"><iframe src="https://gifer.com/embed/6M8G" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<a href="https://twitter.com/shubham_barore" target="blank"><img align="center" src="https://gifer.com/embed/6M8G" alt="shubham_barore" height="30" width="40" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham0709&label=Profile%20views&color=0e75b6&style=flat" alt="shubham0709" /> </p>
 
