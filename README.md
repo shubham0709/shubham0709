@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Barore</h1>
 <h3 align="center">A passionate Full stack developer from India and a problem solver.</h3>
 
-<img src="https://i.gifer.com/6M8G.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham0709&label=Profile%20views&color=0e75b6&style=flat" alt="shubham0709" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham0709" alt="shubham0709" /></a> </p>
