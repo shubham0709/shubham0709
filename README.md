@@ -44,4 +44,6 @@ to an organization as a software engineer, as well as grow and develop my own sk
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0709&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="shubhambarore" height="200px" width="50%" />
 </div>
 <br>
+<a href="https://github.com/shubham0709/github-readme-activity-graph"><img alt="shubhambarore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0709&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 
