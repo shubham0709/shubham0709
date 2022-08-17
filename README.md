@@ -1,4 +1,4 @@
-<img src ="https://github.com/shubham0709/shubham0709/blob/main/github-header-image.png" />
+<img src ="https://github.com/shubham0709/shubham0709/blob/main/github-header-image%20(5).png" />
 <h3 align="justify">Results-driven computer science student who is passionate about developing user-friendly software
 applications. Excellent problem-solving skills and ability to perform well in a team. Willing to contribute
 to an organization as a software engineer, as well as grow and develop my own skills as a coder.</h3>
