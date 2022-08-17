@@ -17,7 +17,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 - 📫 Contact me **shubham07barore@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UA14_6LQr8B8_6TNjll4VMFtj3YGnoaF/view?usp=sharing](https://drive.google.com/file/d/1UA14_6LQr8B8_6TNjll4VMFtj3YGnoaF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1PE3GpfOAhFflC0oJGvsHosRm9-sd3uO7?usp=sharing)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=shubham0709" alt="shubham0709" /></a>
