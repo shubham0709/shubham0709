@@ -38,12 +38,13 @@ to an organization as a software engineer, as well as grow and develop my own sk
 <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" />
 
 <h2><i>My GitHub Stats</i></h2>
-
-<div width="100%" style={display : "flex"} >
-    <img src="https://github-readme-stats.vercel.app/api?username=shubham0709&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shubhambarore" height="200px" width="50%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0709&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="shubhambarore" height="200px" width="50%" />
-</div>
 <br>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham0709&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shubham0709" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0709&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="shubham0709" height="139" />
+</p>
+
 <a href="https://github.com/shubham0709/github-readme-activity-graph"><img alt="shubhambarore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubham0709&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
